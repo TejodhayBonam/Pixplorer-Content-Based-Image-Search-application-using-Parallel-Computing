@@ -22,8 +22,8 @@
 ![Seaborn](https://img.shields.io/badge/seaborn-5c7da2.svg?&style=for-the-badge&logo=power-bi&logoColor=white)
 
 
-#### 📊 Get Presentation Here  
-[![PPT](https://img.shields.io/badge/PRESENTATION-D83B01.svg?&style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://drive.google.com/file/d/1eh4uGQVOhoDLhHozX9tYEfUoMP-aDaMx/view?usp=sharing)
+<!-- #### 📊 Get Presentation Here  
+[![PPT](https://img.shields.io/badge/PRESENTATION-D83B01.svg?&style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://drive.google.com/file/d/1eh4uGQVOhoDLhHozX9tYEfUoMP-aDaMx/view?usp=sharing) -->
 
 
 #### 🗃️ Dataset
