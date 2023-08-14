@@ -128,4 +128,4 @@ Also, 	as the color images consist of three components therefore the computation
 
 <p><br><p>
  
-[📃 Project Report Here](/Docs/Final%20Report.pdf)
+<!-- [📃 Project Report Here](/Docs/Final%20Report.pdf) -->
